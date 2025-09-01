@@ -1,2 +1,2 @@
 # markdown-starter
-clean Markdown templates and style rules.
+Use `/templates/post.md` as a base. Follow `STYLE.md`.
